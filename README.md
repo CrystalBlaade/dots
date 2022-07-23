@@ -4,4 +4,4 @@ Neovim configuration written for Ruby on Rails and Javascript development
 Terminal - alacritty
 Neovim - 0.7.0
 Installation:
-Simply put all the folders into ~/.config
+Simply put all the folders into ~/.config and run nvim +PackerSync
